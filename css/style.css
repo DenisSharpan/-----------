@@ -88,8 +88,8 @@ body {
 }
 .title {
 	width: 1080px;
-	height: 180px;
-	background: #000;
+	height: 80px;
+	background: red;
 }
 .title-img {
 	width: 270px;
